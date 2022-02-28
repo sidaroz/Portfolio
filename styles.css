@@ -5,6 +5,8 @@ body {
 .title-name {
   color: #66fcf1;
   text-align: left;
+  text-align: center;
+  margin-left: ;
 }
 
 div.nav {
@@ -14,11 +16,15 @@ div.nav {
 }
 
 .navigation-bar {
+  padding: 0;
   color: white;
   display: flex;
   flex-direction: row;
   gap: 20px;
   list-style: none;
-  align-items: center;
-  width: 100%;
+  justify-content: center;
+}
+
+.about {
+  color: gray;
 }
