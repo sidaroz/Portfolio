@@ -1,12 +1,13 @@
 body {
   background-color: #1f2833;
+  font-family: "Oswald", sans-serif;
 }
 
 .title-name {
   color: #66fcf1;
   text-align: left;
   text-align: center;
-  margin-left: ;
+  font-size: 35px;
 }
 
 div.nav {
@@ -33,4 +34,5 @@ div.nav {
 .about-paragraph {
   color: white;
   font-family: Arial;
+  font-size: 15px;
 }
