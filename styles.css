@@ -25,6 +25,12 @@ div.nav {
   justify-content: center;
 }
 
-.about {
-  color: gray;
+.about-header {
+  color: rgb(107, 96, 96);
+  font-size: 30px;
+}
+
+.about-paragraph {
+  color: white;
+  font-family: Arial;
 }
